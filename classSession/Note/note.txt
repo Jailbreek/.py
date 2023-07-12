@@ -1,0 +1,18 @@
+Paraphrasing
+Parafrasa adalah teknik menulis ulang suatu pernyataan ke dalam pernyataan lain tanpa mengubah artinya. Hal ini membantu menjaga tulisan bebas dari pelanggaran hak cipta atau plagiarisme. Parafrasa memungkinkan penulis untuk mengungkapkan kembali ide atau informasi dari sumber lain dengan menggunakan kata-kata sendiri, tetapi tetap mempertahankan makna asli dari sumber tersebut. Ini dapat membantu menghindari plagiarisme dan menjaga integritas tulisan.
+
+Plagiarism
+Plagiarisme adalah tindakan menyalin atau menggunakan karya orang lain tanpa memberikan pengakuan atau kredit yang layak kepada sumber aslinya. Ini dapat terjadi ketika seseorang menyalin teks secara langsung dari sumber lain tanpa memberikan tanda kutip atau referensi, atau ketika seseorang menulis ulang ide atau informasi dari sumber lain tanpa memberikan pengakuan yang layak.
+Plagiarisme dianggap sebagai pelanggaran etika akademis dan profesional yang serius dan dapat memiliki konsekuensi yang merugikan bagi pelakunya.
+
+Peer Review Process
+Peer review adalah proses evaluasi yang dilakukan oleh sekelompok peninjau yang ahli di bidang yang sama untuk menentukan apakah suatu naskah layak diterbitkan di jurnal akademis. Proses ini menggunakan kriteria yang ketat dan bertujuan untuk menjaga kualitas dan validitas artikel serta jurnal yang menerbitkannya .
+
+Proses peer review dapat diringkas menjadi 10 langkah, meskipun langkah-langkah ini dapat bervariasi sedikit antar jurnal. Langkah-langkah tersebut meliputi: pengajuan naskah, penilaian oleh kantor editorial, penilaian oleh Editor-in-Chief (EIC), penugasan Associate Editor (AE), undangan kepada peninjau, tanggapan terhadap undangan, peninjauan dilakukan, evaluasi jurnal terhadap hasil peninjauan, keputusan dikomunikasikan, dan langkah selanjutnya
+1. Single-blind peer review: Dalam jenis peer review ini, peninjau mengetahui identitas penulis tetapi penulis tidak mengetahui identitas peninjau.
+2.Double-blind peer review: Dalam jenis peer review ini, baik penulis maupun peninjau tidak mengetahui identitas satu sama lain.
+3. Open peer review: Dalam jenis peer review ini, identitas penulis dan peninjau diketahui oleh semua peserta dan proses review transparan untuk publik.
+4. Collaborative peer review: Dalam jenis peer review ini, beberapa peninjau bekerja sama untuk memberikan umpan balik kepada penulis.
+5. Third-party peer review: Dalam jenis peer review ini, pihak ketiga yang independen bertanggung jawab untuk mengelola proses peer review.
+6. Post-publication peer review: Dalam jenis peer review ini, artikel diterbitkan terlebih dahulu dan kemudian dievaluasi oleh komunitas akademis setelah publikasi.
+7. Cascading peer review: Dalam jenis peer review ini, jika suatu naskah ditolak oleh satu jurnal, naskah tersebut dapat diarahkan ke jurnal lain dalam kelompok penerbitan yang sama tanpa harus melalui proses peer review ulang.
